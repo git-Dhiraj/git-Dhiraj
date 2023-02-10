@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.videoplasty.com%2Fanimation%2Fmidnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg&imgrefurl=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fmidnight-coding-late-night-session-lofi-animation-28139&tbnid=uiiieTP1B2AtxM&vet=12ahUKEwjdzZPBpor9AhXMiNgFHcJuCZAQMyg3egQIARB4..i&docid=lXD_hFTwAU0-SM&w=1024&h=576&q=animated%20coding%20gif&ved=2ahUKEwjdzZPBpor9AhXMiNgFHcJuCZAQMyg3egQIARB4"   >
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHzIDvgWMCFMLr3c_PCZfHAGVsZ6-2ZRWhA&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-dhiraj&label=Profile%20views&color=0e75b6&style=flat" alt="git-dhiraj" /> </p>
 
 - 📫 How to reach me **dk9908070@gmail.com**
