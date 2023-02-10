@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHzIDvgWMCFMLr3c_PCZfHAGVsZ6-2ZRWhA&usqp=CAU">
+<img align="right" alt="coding" width="600" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-dhiraj&label=Profile%20views&color=0e75b6&style=flat" alt="git-dhiraj" /> </p>
 
 - 📫 How to reach me **dk9908070@gmail.com**
